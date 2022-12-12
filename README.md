@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadChafe
 - 👀 I’m interested in coding, gaming and networking
 - 🌱 I’m currently learning Blockhain Via NITDA SCHOLARSHIP
-- 💞️ I’m looking to collaborate on Blockhain technology
+- 💞️ I’m looking forward to collaborate with anyone on Blockhain technology
 
 
 <!---
